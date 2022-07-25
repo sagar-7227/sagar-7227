@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 👨‍💻 You can also check my PortFolio at [Sagar PortFolio](https://sagar-7227.github.io/PortFolio/)
+- 👨‍💻 You can also check my PortFolio at [PortFolio](https://sagar-7227.github.io/PortFolio/)
+
+- 🎯 Check my achieved badges at [Badges](https://www.credly.com/users/sagar_vashnav)
 
 - 📫 How to reach me **sagarvashnav72427@gmail.com**
 
