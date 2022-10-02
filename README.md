@@ -2,7 +2,7 @@
 <h3 align="center">Person that love to Learn and make a best out of it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-7227&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-7227" /> </p>
-<img align="right" alt="Coding" width="500" height="300" src="https://firebasestorage.googleapis.com/v0/b/fir-e1cc4.appspot.com/o/laptop-1839876.jpg?alt=media&token=a7a69eaa-07a4-4c76-bcaa-f8de72a62970">
+<img align="right" alt="Coding" width="500" height="300" src="https://firebasestorage.googleapis.com/v0/b/fir-e1cc4.appspot.com/o/laptops-593296.jpg?alt=media&token=d5244c4a-7119-4ecf-888c-6662be50ee02">
 
 - 🌱 I’m currently learning **DevOps Tools**
 
