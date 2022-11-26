@@ -1,5 +1,5 @@
 
-<p align="center"><img alt="Profile Banner" src=""></p>
+<p align="center"><img alt="Profile Banner" src="https://raw.githubusercontent.com/sagar-7227/sagar-7227/release-2.0/github-readme-banner.png"></p>
 
 <div align="center">
   
