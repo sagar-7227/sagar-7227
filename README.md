@@ -1,50 +1,64 @@
-<h1 align="center">Hi 👋, I'm Sagar Vashanv</h1>
-<h3 align="center">Person that love to Learn and make a best out of it.</h3>
+
+<p align="center"><img alt="Profile Banner" src=""></p>
+
+<div align="center">
+  
+I am a **DevOps** and **Android** developer. I like building tools (CLI and Automation) and designing applications. I love to work with communities to learn new things.
+
+
+
+## 📫 Connect with me on
+
+<a href="https://linkedin.com/in/sagar-vashnav/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sagarvashnav72427@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="https://twitter.com/VashnavSagar"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+<br>
+  
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-7227&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-7227" /> </p>
-<img align="right" alt="Coding" width="500" height="300" src="https://firebasestorage.googleapis.com/v0/b/fir-e1cc4.appspot.com/o/laptops-593296.jpg?alt=media&token=d5244c4a-7119-4ecf-888c-6662be50ee02">
 
-- 🌱 I’m currently learning **DevOps Tools**
+### My Latest Blog Posts 👇
 
-- 👨‍💻 You can also check my PortFolio at [PortFolio](https://sagar-7227.github.io/PortFolio/)
-
-- 🎯 Check my achieved badges at [Badges](https://www.credly.com/users/sagar_vashnav)
-
-- 📫 How to reach me **sagarvashnav72427@gmail.com**
-
-- ⚡ Fun fact **People never get understood when I am serious or when I am in funny mood.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sagar-vashnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-vashnav" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-7227&show_icons=true&locale=en&layout=compact" alt="sagar-7227" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-7227&" alt="sagar-7227" /></p>
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://sagarvashnav.hashnode.dev/supabase-new-way-of-setting-backend-for-your-website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661660741187/0gwkPFVPQ.png?auto=compress,format&format=webp" alt="SupaBase - New Way of setting Backend for Your Website" width="250px" align="left" /></a>
+
+<a href="https://sagarvashnav.hashnode.dev/supabase-new-way-of-setting-backend-for-your-website">
+<strong>SupaBase - New Way of setting Backend for Your Website</strong></a>
+<br/> 
+Supabase is often described as an open source alternative to Google’s Firebase, for those who don't know what Firebase is, it is a collection of tools that helps developers to build projects more quickly by automatically handling a lot of behind-the-scenes work and wiring. </p> <br/>
+
+<!-- HASHNODE_BLOG:END -->
+
+<div align="center">
+<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
+<p><a href="https://sagarvashnav.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+
+## More about me
+
+- 🔭 I’m currently working on improving my development skills
+- 🏆 Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
+- 🌱 I’m currently learning Blockchain
+- 🎯 Check my achieved badges at [Badges](https://www.credly.com/users/sagar_vashnav)
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with contributing to open source projects
+- 💬 Ask me about tech related stuffs
+- ⚡ Fun fact: I procrastinate more than I code
+
+## 📈 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=sagar-7227&show_icons=true&theme=react" alt="github stats" width="48%" align="left">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-7227&theme=react" width="48%" >
+
+<br>
+
+[![Sagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sagar-7227&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/sagar-7227">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-7227&theme=react&layout=compact&">
+</a>
