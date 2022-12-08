@@ -57,7 +57,7 @@ Supabase is often described as an open source alternative to Google’s Firebase
 
 <br>
 
-[![Sagar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagar-7227&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sagar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagar-7227&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/sagar-7227">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-7227&theme=react&layout=compact&">
