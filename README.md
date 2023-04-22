@@ -22,7 +22,7 @@ I am a **DevOps** and **Android** developer. I like building tools (CLI and Auto
 ### My Latest Blog Posts 👇
 
 <br>
-<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG -1:START -->
 <p align="left">
 <a href="https://sagarvashnav.hashnode.dev/supabase-new-way-of-setting-backend-for-your-website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661660741187/0gwkPFVPQ.png?auto=compress,format&format=webp" alt="SupaBase - New Way of setting Backend for Your Website" width="250px" align="left" /></a>
 
@@ -32,7 +32,31 @@ I am a **DevOps** and **Android** developer. I like building tools (CLI and Auto
 Supabase is often described as an open source alternative to Google’s Firebase, for those who don't know what Firebase is, it is a collection of tools that helps developers to build projects more quickly by automatically handling a lot of behind-the-scenes work and wiring. </p> <br/>
 
 <!-- HASHNODE_BLOG:END -->
+<br>
+<!-- HASHNODE_BLOG-2:START -->
+<p align="left">
+<a href="https://sagarvashnav.hashnode.dev/chai-assertions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682162015388/aeae232c-a7aa-4535-9810-defae9ad4f33.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Chai Assertions" width="250px" align="left" /></a>
 
+<a href="https://sagarvashnav.hashnode.dev/chai-assertions">
+<strong>Chai Assertions</strong></a>
+<br/> 
+Chai is an assertion library, similar to Node's built-in assert. It makes testing much easier by giving you lots of assertions you can run against your code. </p> <br/>
+
+<!-- HASHNODE_BLOG:END -->
+<br>
+<br>
+<!-- HASHNODE_BLOG-3:START -->
+<p align="left">
+<a href="https://sagarvashnav.hashnode.dev/database-testing-with-cypress"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682185040100/bdd3b330-e1e9-4191-b77d-7befae5cacd2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="DataBase Testing With CYPRESS" width="250px" align="left" /></a>
+
+<a href="https://sagarvashnav.hashnode.dev/database-testing-with-cypress">
+<strong>DataBase Testing With CYPRESS</strong></a>
+<br/> 
+Cypress is a popular end-to-end testing tool. Cypress is a JavaScript-based tool that makes end-to-end testing simple. </p> <br/>
+
+<!-- HASHNODE_BLOG:END -->
+<br>
+<br>
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://sagarvashnav.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
