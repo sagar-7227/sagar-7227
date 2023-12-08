@@ -3,14 +3,14 @@
 
 <div align="center">
   
-I am a **DevOps** and **Android** developer. I like building tools (CLI and Automation) and designing applications. I love to work with communities to learn new things.
+I am a **Full Stack** and **Cloud** developer. I like building projects including payment integration, database, rest API, and designing applications. I love to work with communities to learn new things.
 
 
 
 ## 📫 Connect with me on
 
 <a href="https://linkedin.com/in/sagar-vashnav/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sagarvashnav72427@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="mailto:work.sagarvashnav@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://twitter.com/VashnavSagar"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <br>
@@ -66,11 +66,11 @@ Cypress is a popular end-to-end testing tool. Cypress is a JavaScript-based tool
 
 - 🔭 I’m currently working on improving my development skills
 - 🏆 Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Next.js
 - 🎯 Check my achieved badges at [Badges](https://www.credly.com/users/sagar_vashnav)
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with contributing to open source projects
-- 💬 Ask me about tech related stuffs
+- 🤔 I’m looking for help with contributing to open-source projects
+- 💬 Ask me about tech related stuff
 - ⚡ Fun fact: I procrastinate more than I code
 
 ## 📈 GitHub Statistics
@@ -81,7 +81,7 @@ Cypress is a popular end-to-end testing tool. Cypress is a JavaScript-based tool
 
 <br>
 
-[![Sagar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagar-7227&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sagar-7227&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/sagar-7227">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-7227&theme=react&layout=compact&">
