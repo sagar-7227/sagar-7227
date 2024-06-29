@@ -3,7 +3,7 @@
 
 <div align="center">
   
-I am a **Full Stack** and **Cloud** developer. I like building projects including payment integration, database, rest API, and designing applications. I love to work with communities to learn new things.
+I am a **Full Stack Java** and **Cloud** developer. I like building projects including payment integration, database, rest API, and designing applications. I love to work with communities to learn new things.
 
 
 
